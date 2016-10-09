@@ -2,6 +2,12 @@
 
 #### 1. Instalar alguno de los entornos virtuales de node.js (o de cualquier otro lenguaje con el que se esté familiarizado) y, con ellos, instalar la última versión existente, la versión minor más actual de la 4.x y lo mismo para la 0.11 o alguna impar (de desarrollo).
 
+* Instalación de NVM:  
+![NVM](http://i1268.photobucket.com/albums/jj576/marcofp0/nvm-version_zpszydy9atm.png)  
+
+* Instalación de las versiones de Node 4.6.0 (LTS) y 6.7.0 (Current):
+![Node](http://i1268.photobucket.com/albums/jj576/marcofp0/node-versions_zpsopav6ul8.png)
+
 
 #### 2. Como ejercicio, algo ligeramente diferente: una web para calificar las empresas en las que hacen prácticas los alumnos.
 Las acciones serían:  
@@ -13,6 +19,8 @@ Las acciones serían:
 * Crear un repositorio en GitHub para la librería y crear un pequeño programa que use algunas de sus funcionalidades.
 
 Si se quiere hacer con cualquier otra aplicación, también es válido. Se trata de hacer una aplicación simple que se pueda hacer rápidamente con un generador de aplicaciones como los que incluyen diferentes marcos MVC. Si cuesta mucho trabajo, simplemente prepara una aplicación que puedas usar más adelante en el resto de los ejercicios.
+
+[Repositorio de la aplicación](https://github.com/MarFerPra/company-ranking)
 
 #### 3. Ejecutar el programa en diferentes versiones del lenguaje. ¿Funciona en todas ellas?
 
