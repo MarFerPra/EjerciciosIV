@@ -10,6 +10,9 @@
 
 
 #### 2. Como ejercicio, algo ligeramente diferente: una web para calificar las empresas en las que hacen prácticas los alumnos.
+
+[Repositorio de la aplicación](https://github.com/MarFerPra/company-ranking)
+
 Las acciones serían:  
 * Crear empresa
 * Listar calificaciones para cada empresa
@@ -19,8 +22,6 @@ Las acciones serían:
 * Crear un repositorio en GitHub para la librería y crear un pequeño programa que use algunas de sus funcionalidades.
 
 Si se quiere hacer con cualquier otra aplicación, también es válido. Se trata de hacer una aplicación simple que se pueda hacer rápidamente con un generador de aplicaciones como los que incluyen diferentes marcos MVC. Si cuesta mucho trabajo, simplemente prepara una aplicación que puedas usar más adelante en el resto de los ejercicios.
-
-[Repositorio de la aplicación](https://github.com/MarFerPra/company-ranking)
 
 #### 3. Ejecutar el programa en diferentes versiones del lenguaje. ¿Funciona en todas ellas?
 
