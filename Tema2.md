@@ -13,6 +13,8 @@
 
 [Repositorio de la aplicación](https://github.com/MarFerPra/company-ranking)
 
+![Front page](http://i1268.photobucket.com/albums/jj576/marcofp0/company-ranking_zpsdmtu4pcz.png)
+
 Las acciones serían:  
 * Crear empresa
 * Listar calificaciones para cada empresa
@@ -51,6 +53,8 @@ En el punto siguiente se describe el test unitario implementado.
 
 Al proyecto se ha añadido un test unitario para la ruta '/', comprobando que la aplicación se lanza correctamente y devuelve el contenido esperado por defecto.   
 Y por último, y más importante, un test con la funcionalidad más compleja de la API, votar una empresa a partir de el id de la empresa, el id del usuario y una puntuación concreta.  
+
+![Tests Mocha](http://i1268.photobucket.com/albums/jj576/marcofp0/tests-mocha_zpsatxtnbui.png)
 
 Además de lanzar los tests, se ha añadido Travis CI como herramienta de integración continua con github, de forma que se realizan tests para cada actualización del repositorio de forma automática.  
 
